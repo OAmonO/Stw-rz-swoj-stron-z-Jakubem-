@@ -1,4 +1,4 @@
-const CONTACT_EMAIL = "jakubmalecki@proton.me";
+const CONTACT_EMAIL = "jakubmlecki@proton.me";
 // Opcjonalnie numer telefonu, np. "+48 600 000 000". Zostaw puste, jeśli nie chcesz go pokazywać.
 const CONTACT_PHONE = "";
 
